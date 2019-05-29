@@ -1,0 +1,4 @@
+clear
+echo See you tomorrow, $USER.
+date
+echo "Press Enter to login again."
